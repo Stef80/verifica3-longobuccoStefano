@@ -1,0 +1,13 @@
+
+V
+squid:S106)"9Replace this use of System.out or System.err by a logger.(Ù†ßÄ8ÿîÙüÜ-
+}squid:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(”³¨˜ıÿÿÿÿ8èšÇÿÜ-
+_squid:S1126v"AReplace this if-then-else statement by a single return statement.(üÕÿ×8ÒÜ»şÜ-
+esquid:S3973="GUse indentation to denote the code conditionally executed by this "if".(ŞÀàÜ8á£ÆşÜ-
+?squid:S1643L"Use a StringBuilder instead.(Ë½Îøÿÿÿÿ8˜™ğşÜ-
+?squid:S16431"Use a StringBuilder instead.(Ë½Îøÿÿÿÿ8ù§¼ÿÜ-
+isquid:CommentedOutCodeLine\"<This block of commented-out lines of code should be removed.(éÅ•«8„Æ…İ-
+esquid:S3973~"GUse indentation to denote the code conditionally executed by this "if".(¤œ¿¸8ÒÜ»şÜ-
+?squid:S1643V"Use a StringBuilder instead.(Ë½Îøÿÿÿÿ8ÈşÇ€İ-
+?squid:S1643>"Use a StringBuilder instead.(Ë½Îøÿÿÿÿ8ÒÜ»şÜ-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®›œÔøÿÿÿÿ

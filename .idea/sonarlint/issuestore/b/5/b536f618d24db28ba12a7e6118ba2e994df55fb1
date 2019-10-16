@@ -1,0 +1,13 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(£”™Õ8Í…½ÿÜ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ì¼—8£„ôÿÜ-
+zsquid:UselessImportCheck"ORemove this unused import 'javax.print.attribute.standard.PrinterMakeAndModel'.(Ô¡Ü®8„ª¥€İ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8Ú¤öÿÜ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8»Ğ€İ-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®›œÔøÿÿÿÿ
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬´±ùûÿÿÿÿ8–¸Ñ€İ-

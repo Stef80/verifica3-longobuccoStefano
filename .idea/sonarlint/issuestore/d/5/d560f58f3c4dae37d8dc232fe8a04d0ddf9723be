@@ -1,0 +1,16 @@
+
+\squid:S1854"9Remove this useless assignment to local variable "feb29".(Àè•şÿÿÿÿ8ÇĞ×öÜ-
+asquid:S1854
+">Remove this useless assignment to local variable "compleanno".(ë¢Ó—üÿÿÿÿ8ÇĞ×öÜ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(”¾®8ª¨…÷Ü-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨«úü8òÚ¥÷Ü-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãÊ¸”ÿÿÿÿÿ8òÚ¥÷Ü-
+asquid:S1854">Remove this useless assignment to local variable "ferragosto".(œ¶Ò¯üÿÿÿÿ8ÇĞ×öÜ-
+Xsquid:S1854":Remove this useless assignment to local variable "natale".(«ª8ÇĞ×öÜ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÕÿŞ8ÛÃçöÜ-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú¯éìøÿÿÿÿ
+[squid:S1854"=Remove this useless assignment to local variable "capodanno".(˜ŠÕ×8ÇĞ×öÜ-
